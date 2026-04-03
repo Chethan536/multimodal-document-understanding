@@ -1,5 +1,3 @@
-# multimodal-document-understanding
-
 # Multi-Modal Document Understanding using Layout-Aware Transformers
 
 ## Overview
