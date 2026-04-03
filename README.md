@@ -18,7 +18,7 @@ Unstructured documents contain valuable information but lack a predefined schema
 - Structured JSON output generation
 
 ## Paper
-📄 [View Research Paper](./multimodal-document-understanding-paper.pdf)
+📄 [View Research Paper](./Multi-Modal Document Understanding using Layout-Aware Transformers.pdf)
 
 ## Technologies
 - Python
